@@ -155,6 +155,7 @@ No known bugs at this time.
 
 ## Authors
 Kendi-Nceene - [Github](https://github.com/Kendi-Nceene) 
+Renkre Dauda - [Github](https://github.com/Demigod-Art)
 
 
 Second part of Airbnb
